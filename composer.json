@@ -1,0 +1,21 @@
+{
+    "name": "frederico/database-backup",
+    "description": "Backups Automatizados",
+    "type":"library",
+    "version" : "1.0",
+    "authors": [
+        {
+            "name": "Frederico Ferreira",
+            "email": "frederico@ufti.com.br"
+        }
+    ],
+    "require": {
+        "php": ">5.5"
+    },
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "FredericoFerreira\\DatabaseBackup" : ["src/FredericoFerreira/DatabaseBackup"]
+        }
+    }
+}
