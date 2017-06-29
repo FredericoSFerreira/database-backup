@@ -1,5 +1,5 @@
 {
-    "name": "frederico/database-backup",
+    "name": "fredericoferreira/database-backup",
     "description": "Backups Automatizados",
     "type":"library",
     "version" : "1.0",
