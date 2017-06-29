@@ -6,10 +6,12 @@
  * Time: 21:53
  */
 
-namespace FredericoFerreira\DatabaseBackp;
-
+namespace FredericoFerreira\DataBaseBackup;
 
 class Backup
 {
-
+    public static function mysql()
+    {
+        echo "Em Dev";
+    }
 }
